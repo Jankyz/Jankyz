@@ -56,17 +56,14 @@ Most of my work sits around `PHP`, `Symfony`, `Python`, `FastAPI`, and `Docker`,
 
 These are selected projects I built or contributed to. Some repositories are private, but the products are live.
 
-- `Business Platform`  
-  Live product backed by a private codebase. Built and maintained with `PHP`, `Symfony`, and `Docker`.
-  [Live](https://spinkanawawie.pl)
+- `SpinkaNaWawie.pl`  
+  Landing page for a Warsaw bouldering community. [Live](https://spinkanawawie.pl)
 
-- `AI Workflow Tool`  
-  Public-facing project supported by a private implementation, focused on performance, UX, and clean delivery.
-  [Live](https://przypakuj.pl)
+- `Przypakuj.pl`  
+  AI personal trainer focused on training plans in Polish. [Live](https://przypakuj.pl)
 
-- `Custom Web System`  
-  Production website and system work delivered with a practical full-stack approach and deployment-focused setup.
-  [Live](https://geo4you.pl)
+- `Geo4You.pl`  
+  Online tools for surveyors, reports, and geodetic calculations. [Live](https://geo4you.pl)
 
 ---
 
