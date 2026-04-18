@@ -57,18 +57,18 @@ Most of my work sits around `PHP`, `Symfony`, `Python`, `FastAPI`, and `Docker`,
 These are selected projects I built or contributed to. Some repositories are private, but the products are live.
 
 - `SpinkaNaWawie.pl`  
-  Landing page for a Warsaw bouldering community.  
+  Community site and blog for a Warsaw bouldering group. Built with plain HTML, CSS, and JavaScript.  
   `HTML` `CSS` `JavaScript`  
   [Live](https://spinkanawawie.pl)
 
 - `Przypakuj.pl`  
-  AI personal trainer focused on training plans in Polish.  
+  AI personal trainer for Polish-speaking users — generates training plans powered by a custom integration with the Bielik LLM.  
   `HTML` `CSS` `JavaScript`  
   [Live](https://przypakuj.pl)
 
 - `Geo4You.pl`  
-  Online tools for surveyors, reports, and geodetic calculations.  
-  `PHP` `WordPress` `Python`  
+  Advanced web portal for surveyors — geodetic calculations, GPS and tachimetry reports, coordinate transformations, and network adjustments. Built as a multi-service system with a REST API backend.  
+  `PHP` `Python` `REST API` `Microservices` `Docker`  
   [Live](https://geo4you.pl)
 
 ---
